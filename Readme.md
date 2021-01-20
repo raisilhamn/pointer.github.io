@@ -1,11 +1,3 @@
 # Pointer 2020 
-just random information about information systems 'Sistem Informasi'
-
-Akses Online di 
-raisilhamn.github.io 
-
-
-
-thanks to
-scrimba.com
-w3schools.com
+Tugas dari pengenalan prodi S1 Sistem Informasi (Pointer)
+Akses Online di https://raisilhamn.github.io/ 
